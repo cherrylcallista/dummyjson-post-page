@@ -13,7 +13,7 @@ function PreFooter() {
             </div>
 
             <div>
-                <p className="font-bold">RECENT POSTS</p>
+                <p className="font-bold">ENJOY YOUR READ!</p>
             </div>
         </div>
     )
